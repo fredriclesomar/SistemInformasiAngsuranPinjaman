@@ -1,1 +1,1 @@
-Dalam perjalanan ..
+Proses upload dalam perjalanan ..
