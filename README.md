@@ -2,7 +2,7 @@
 Sistem Informasi Angsuran Pinjaman (SIAP) is Up! on Yii Framework
 
 > Login
-  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/login.png" width="350" title="Tampilan Home">
+  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/login.png" width="350" title="Tampilan Login">
 </p>
 <b>username: fredricls <br>
 pass: FredricLesomar<b/>
@@ -14,12 +14,12 @@ pass: FredricLesomar<b/>
 
 
 > Member
-  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/member.png" width="350" title="Tampilan Home">
+  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/member.png" width="350" title="Tampilan Member">
 </p>
 
 
 > Tabel Db
-  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/tabel.png" width="350" title="Tampilan Home">
+  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/tabel.png" width="350" title="Tampilan Databases">
 </p>
 
 
