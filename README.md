@@ -1,7 +1,6 @@
 # SistemInformasiAngsuranPinjaman
 Sistem Informasi Angsuran Pinjaman (SIAP) is Up! on Yii Framework
 
-![Home](https://github.com/fredriclesomar/SistemInformasiAngsuranPinjaman/median/home.png)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/home.png" width="350" title="hover text">
+![Home]
+  <img src="https://raw.githubusercontent.com/fredriclesomar/SistemInformasiAngsuranPinjaman/master/median/homes.png" width="350" title="Tampilan Home">
 </p>
