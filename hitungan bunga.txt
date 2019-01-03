@@ -1,0 +1,4 @@
+->bunga; 
+			
+$model->besar_angsuran = ($model->besar_pinjaman + ($model->besar_pinjaman * $model->bunga / 100)) / $model->diangsur_kali;
+
