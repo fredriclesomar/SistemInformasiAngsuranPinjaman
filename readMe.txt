@@ -1,1 +1,0 @@
-Proses upload dalam perjalanan ..
